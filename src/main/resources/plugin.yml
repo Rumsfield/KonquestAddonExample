@@ -1,0 +1,7 @@
+name: KonquestAddonExample
+version: '${version}'
+main: com.github.rumsfield.konquestaddonexample.KonquestAddonExample
+api-version: '1.16'
+depend: [Konquest]
+authors: [Rumsfield]
+description: An example plugin using the Konquest API
